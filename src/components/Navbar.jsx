@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     return (
         <>
-            <nav className="p-8 flex items-baseline justify-between bg-b_green">
+            <nav className="px-8 py-4 flex items-baseline justify-between bg-b_green">
                 <div className="w-[150px]">
                     <img src={navacharLogo} alt="" />
                 </div>

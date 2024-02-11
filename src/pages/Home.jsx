@@ -4,7 +4,7 @@ import leaf from "../assets/leaf.svg";
 import mainScreenAnimation from "../assets/mainScreenAnimation.svg";
 function Home() {
     return (
-        <div className="bg-b_green w-screen  py-4 px-8 flex flex-col items-center justify-between gap-4">
+        <div className="bg-b_green w-screen pt-9 px-8 flex flex-col items-center justify-between gap-8 ">
             <div>
                 <p className=" text-center font-wendy text-t_gray text-5xl">
                     "From Soil to Soul: Cultivating <br />

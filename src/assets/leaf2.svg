@@ -1,9 +1,27 @@
-<svg width="48" height="28" viewBox="0 0 48 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M50 -7L50 35L-2 35L-2 -7L50 -7Z" fill="url(#paint0_linear_39_72)"/>
+<svg width="52" height="42" viewBox="0 0 52 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-twotone:leaves-one" clip-path="url(#clip0_50_29)">
+<g id="Mask group">
+<mask id="mask0_50_29" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="7" width="48" height="28">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M26.1311 32.375C18.8793 32.375 13 27.2825 13 21C13 14.7175 18.8793 9.625 26.1311 9.625C33.384 9.625 47.6667 21 47.6667 21C47.6667 21 33.384 32.375 26.1311 32.375Z" fill="#555555" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path id="Vector_2" d="M47.6667 21L13 21L4.33334 21" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M26.1311 32.375C18.8793 32.375 13 27.2825 13 21C13 14.7175 18.8793 9.625 26.13 9.625M26.1311 32.375C33.384 32.375 47.6667 21 47.6667 21C47.6667 21 33.3829 9.625 26.13 9.625" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_50_29)">
+<path id="Vector_4" d="M52 0L52 42L-1.83588e-06 42L0 -2.27299e-06L52 0Z" fill="url(#paint0_linear_50_29)"/>
+</g>
+</g>
+</g>
 <defs>
-<linearGradient id="paint0_linear_39_72" x1="50" y1="14" x2="-2" y2="14" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_50_29" x1="52" y1="21" x2="-9.17939e-07" y2="21" gradientUnits="userSpaceOnUse">
 <stop stop-color="#6AD43C"/>
 <stop offset="1" stop-color="#34C06E"/>
 </linearGradient>
+<clipPath id="clip0_50_29">
+<rect width="42" height="52" fill="white" transform="translate(52) rotate(90)"/>
+</clipPath>
 </defs>
 </svg>
