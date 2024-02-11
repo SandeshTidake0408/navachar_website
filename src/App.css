@@ -1,0 +1,18 @@
+.active {
+    position: relative;
+}
+
+.active::after {
+    content: "";
+    position: absolute;
+    left: 0%;
+    right: 50%;
+    bottom: 0;
+    border-bottom: 2px solid #34c06e; /* Change as needed */
+    transition: all 0.3s ease-in-out;
+}
+
+.active:hover::after {
+    left: 25%;
+    right: 25%;
+}

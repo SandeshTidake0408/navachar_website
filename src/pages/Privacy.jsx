@@ -51,7 +51,7 @@ function Privacy() {
 
             <div className="flex gap-12">
                 <div
-                    className={`text-t_gray py-5 px-8 bg-green-100 sm:w-[30vw] md:w-[40vw] lg:w-[30vw] h-fit flex flex-col items-center justify-center relative rounded-md hover:shadow-lg ${
+                    className={`text-t_gray py-5 px-8 bg-green-100 sm:w-[30vw] md:w-[40vw] lg:w-[30vw]  flex flex-col items-center justify-center relative rounded-md hover:shadow-lg ${
                         cardState1 ? "h-fit" : "h-[300px]"
                     }`}
                 >
@@ -187,7 +187,7 @@ function Privacy() {
             </div>
             <div className=" w-[58vw] flex flex-col gap-3">
                 <p className="text-t_gray font-wendy text-lg tracking-wide">
-                    Lets have a Conversation : :
+                    Lets have a Conversation :
                 </p>
                 <p className="tracking-wide">
                     If you have any questions about this Policy or other privacy
